@@ -11,6 +11,8 @@
 #include <linux/init.h>
 #include <linux/module.h>
 #include <linux/kernel.h>
+#include <linux/sched.h>
+#include <linux/list.h>
 
 /* This function is called when the module is loaded. */
 int simple_init(void)
@@ -29,6 +31,6 @@ void simple_exit(void) {
 module_init( simple_init );
 module_exit( simple_exit );
 
-MODULE_LICENSE("GPL");
-MODULE_DESCRIPTION("Simple Module");
-MODULE_AUTHOR("SGG");
+MODULE_LICENSE("SER334");
+MODULE_DESCRIPTION("Display processes");
+MODULE_AUTHOR("Goodman");

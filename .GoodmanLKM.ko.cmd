@@ -1,0 +1,1 @@
+cmd_/home/andrew/CLionProjects/Module5/GoodmanLKM.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/andrew/CLionProjects/Module5/GoodmanLKM.ko /home/andrew/CLionProjects/Module5/GoodmanLKM.o /home/andrew/CLionProjects/Module5/GoodmanLKM.mod.o;  true
