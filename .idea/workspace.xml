@@ -9,7 +9,27 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0b8f541-3492-450d-9044-6ea150aec13d" name="Default Changelist" comment="" />
+    <list default="true" id="d0b8f541-3492-450d-9044-6ea150aec13d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.GoodmanLKM.o.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/.GoodmanLKM.o.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.simple.ko.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.simple.mod.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.simple.mod.o.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.simple.o.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoodmanLKM.c" beforeDir="false" afterPath="$PROJECT_DIR$/GoodmanLKM.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoodmanLKM.ko" beforeDir="false" afterPath="$PROJECT_DIR$/GoodmanLKM.ko" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoodmanLKM.mod.c" beforeDir="false" afterPath="$PROJECT_DIR$/GoodmanLKM.mod.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoodmanLKM.mod.o" beforeDir="false" afterPath="$PROJECT_DIR$/GoodmanLKM.mod.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoodmanLKM.o" beforeDir="false" afterPath="$PROJECT_DIR$/GoodmanLKM.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules.order" beforeDir="false" afterPath="$PROJECT_DIR$/modules.order" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple.ko" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple.mod.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple.mod.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple.o" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +38,11 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1h1hvbzjupKJC1VVx9wgVcjAAm3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,13 +59,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +68,10 @@
       <option name="presentableId" value="Default" />
       <updated>1599184737044</updated>
       <workItem from="1599184738555" duration="4861000" />
+      <workItem from="1599234992134" duration="28000" />
+      <workItem from="1599235078423" duration="4065000" />
+      <workItem from="1599239589613" duration="5198000" />
+      <workItem from="1599248089630" duration="9127000" />
     </task>
     <servers />
   </component>
@@ -58,6 +79,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599242733813">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="0" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1599242733813" />
     <state x="464" y="128" key="SettingsEditor" timestamp="1599186650204">
       <screen x="0" y="25" width="1920" height="935" />
     </state>
