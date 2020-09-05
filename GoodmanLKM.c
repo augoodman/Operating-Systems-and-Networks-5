@@ -8,18 +8,19 @@
 * @version 2020.09.03
 */
 
-#include <linux/init.h>
-#include <linux/kernel.h>
 #include <linux/list.h>
 #include <linux/module.h>
 #include <linux/moduleparam.h>
 #include <linux/printk.h>
+#include <linux/sched.h>
 #include <linux/sched/signal.h>
+#include <linux/types.h>
 
 /* Take in command line argument as module parameter. */
 int inp_pid = 0;
-module_param(inp_pid, int, 0644);
+module_param(inp_pid, int, 0);
 
+/* Declare global variables. */
 struct task_struct* p;
 struct list_head* list;
 
